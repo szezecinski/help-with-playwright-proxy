@@ -1,4 +1,4 @@
-### Selenium grid session created by playwright execution:
+### Selenium grid - Session created by playwright execution:
 ![asd](./pw_session.png)
 
 ### Session content:
