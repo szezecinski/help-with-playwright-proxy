@@ -1,0 +1,8 @@
+- The following command is used to run the test that uses playwright:
+
+    dotnet test --filter "FullyQualifiedName~TestPW"
+
+
+- The following command is used to run the test that uses RemoteWebDriver:
+
+    SELENIUM_REMOTE_URL=http://localhost:4444/wd/hub dotnet test --filter "FullyQualifiedName~TestRemote"
